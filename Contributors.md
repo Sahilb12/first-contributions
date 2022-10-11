@@ -4,6 +4,7 @@
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
+- [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [AnWhiteEd](https://github.com/an-white)
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
